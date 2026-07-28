@@ -3,7 +3,7 @@ import { View, StyleSheet } from 'react-native';
 import QRCode from 'react-native-qrcode-svg';
 
 import { ThemedText } from '@/components/themed-text';
-import { MeshContext } from '@/src/MeshContext';
+import { MeshContext } from '@/MeshContext';
 
 export default function MyQRScreen() {
   const { deviceId } = useContext(MeshContext);

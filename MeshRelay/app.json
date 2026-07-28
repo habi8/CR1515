@@ -1,5 +1,6 @@
 {
   "expo": {
+    "newArchEnabled": true,
     "name": "MeshRelay",
     "slug": "MeshRelay",
     "version": "1.0.0",
